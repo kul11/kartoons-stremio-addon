@@ -1,0 +1,20 @@
+[
+  {
+    "id": "kartoons:sample-series",
+    "type": "series",
+    "name": "Sample Series — Replace Me",
+    "description": "Replace with a title and metadata you have permission to use.",
+    "poster": "",
+    "episodes": [
+      { "id": "kartoons:sample-series:s1e1", "title": "Episode 1", "season": 1, "episode": 1, "streams": [] }
+    ]
+  },
+  {
+    "id": "kartoons:sample-movie",
+    "type": "movie",
+    "name": "Sample Movie — Replace Me",
+    "description": "Add a licensed or otherwise authorized playback URL to streams.",
+    "poster": "",
+    "streams": []
+  }
+]

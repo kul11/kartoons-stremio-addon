@@ -1,0 +1,10 @@
+{
+  "name": "kartoons-catalog-stremio-addon",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Stremio catalog starter with configurable authorized metadata and playback links",
+  "main": "index.js",
+  "scripts": {"start": "node index.js"},
+  "engines": {"node": ">=18"},
+  "dependencies": {"stremio-addon-sdk": "^1.6.10"}
+}
